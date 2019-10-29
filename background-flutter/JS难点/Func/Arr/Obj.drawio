@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-10-29T12:05:21.114Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="DDw_5qj8CS5P_2_HyROO" version="12.1.8" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-10-29T12:10:22.578Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="eSUloBanUjy_naZ_ii1u" version="12.1.8" type="github" pages="4">
   <diagram id="3zsWWzIFYtMCB39Upx3M" name="Array">
-    <mxGraphModel dx="946" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -229,7 +229,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WjU1k2lRsM1wFutmD0wl" name="Object">
-    <mxGraphModel dx="946" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="52uRmhoQFjtCpDWTwTk8-0"/>
         <mxCell id="52uRmhoQFjtCpDWTwTk8-1" parent="52uRmhoQFjtCpDWTwTk8-0"/>
@@ -329,9 +329,6 @@
         <mxCell id="bgx9efy61ssV66Z0BemA-3" value="Object.create(proto[,descriptions])--创建一个空对象&lt;br&gt;具有给定的 protoas[[Prototype]]和可选属性描述符&lt;br&gt;Object.getPrototypeOf(OBJ)--返回[[Prototype]]的 obj&lt;br&gt;Object.setPrototypeOf(obj, proto)--将 [[Prototype]] 的 obj 设置为 proto" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="52uRmhoQFjtCpDWTwTk8-1">
           <mxGeometry x="340" y="685" width="380" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="bgx9efy61ssV66Z0BemA-8" value="Object.keys（obj）&amp;nbsp;/&amp;nbsp;Object.values（obj）&amp;nbsp;/&amp;nbsp;Object.entries（obj）&amp;nbsp;–返回可枚举的自身字符串属性名称/值/键值对的数组。&lt;br&gt;Object.getOwnPropertySymbols（obj）&amp;nbsp;–返回所有自己的符号键的数组。&lt;br&gt;Object.getOwnPropertyNames（obj）&amp;nbsp;–返回所有自己的字符串键的数组。&lt;br&gt;Reflect.ownKeys（obj）&amp;nbsp;–返回所有自己的键的数组。&lt;br&gt;obj.hasOwnProperty（key）：返回 true 是否 obj 具有自己的（未继承的）键key" style="text;html=1;" vertex="1" parent="52uRmhoQFjtCpDWTwTk8-1">
-          <mxGeometry x="335" y="320" width="2160" height="30" as="geometry"/>
-        </mxCell>
         <mxCell id="bgx9efy61ssV66Z0BemA-9" value="Object.keys(obj)/Object.values(obj)/Object.entries(obj)--返回可枚举的自身字符串属性名称/&lt;br&gt;值/键值对的数组&lt;br&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="52uRmhoQFjtCpDWTwTk8-1">
           <mxGeometry x="340" y="655" width="490" height="30" as="geometry"/>
         </mxCell>
@@ -342,7 +339,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QVfynxVT6b11GOopPgFf" name="Function">
-    <mxGraphModel dx="946" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4n6Ee6nQYyNnLJOlIvlZ-0"/>
         <mxCell id="4n6Ee6nQYyNnLJOlIvlZ-1" parent="4n6Ee6nQYyNnLJOlIvlZ-0"/>
@@ -461,11 +458,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bG8S9gKHf8z78uEhlcRx" name="data-structure">
-    <mxGraphModel dx="946" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kHiQbp2h0eTTcR593dT7-0"/>
         <mxCell id="kHiQbp2h0eTTcR593dT7-1" parent="kHiQbp2h0eTTcR593dT7-0"/>
-        <mxCell id="-HQIM3sMwrEII0bhXvwp-0" value="stack" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kHiQbp2h0eTTcR593dT7-1">
+        <mxCell id="-HQIM3sMwrEII0bhXvwp-0" value="stack" style="rounded=1;whiteSpace=wrap;html=1;" parent="kHiQbp2h0eTTcR593dT7-1" vertex="1">
           <mxGeometry x="120" y="60" width="60" height="60" as="geometry"/>
         </mxCell>
       </root>
