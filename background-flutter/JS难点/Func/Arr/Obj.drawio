@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-31T10:37:19.015Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="LvqOr4dCkiK_vd1kOTcx" version="12.1.9" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-10-31T13:01:02.652Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="nKCfcvs_Ynjc-t6LdLvp" version="12.1.9" type="github" pages="4">
   <diagram id="3zsWWzIFYtMCB39Upx3M" name="Array">
     <mxGraphModel dx="946" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -229,7 +229,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WjU1k2lRsM1wFutmD0wl" name="Object">
-    <mxGraphModel dx="946" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="52uRmhoQFjtCpDWTwTk8-0"/>
         <mxCell id="52uRmhoQFjtCpDWTwTk8-1" parent="52uRmhoQFjtCpDWTwTk8-0"/>
@@ -352,6 +352,9 @@
         </mxCell>
         <mxCell id="g4EE4_HVE2trmpGd-t0b-4" value="Promise.race--接收一个promise 数组，返回第一个 resolve 或者 reject，其他 promise 被忽略" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="52uRmhoQFjtCpDWTwTk8-1">
           <mxGeometry x="330" y="542.5" width="510" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="g4EE4_HVE2trmpGd-t0b-7" value="Reflect.get 读取对象属性。Reflect.set 写入对象属性，成功返回 true，否则返回 false" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="52uRmhoQFjtCpDWTwTk8-1">
+          <mxGeometry x="340" y="360" width="460" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
