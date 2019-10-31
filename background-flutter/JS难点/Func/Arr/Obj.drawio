@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-31T10:37:08.129Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="wUXVPf9Fzm3xQOuWB0bg" version="12.1.9" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-10-31T10:37:19.015Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="LvqOr4dCkiK_vd1kOTcx" version="12.1.9" type="github" pages="4">
   <diagram id="3zsWWzIFYtMCB39Upx3M" name="Array">
     <mxGraphModel dx="946" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -343,9 +343,6 @@
         </mxCell>
         <mxCell id="bgx9efy61ssV66Z0BemA-12" value="Reflect.ownKeys(obj)--返回所有自己的键的数组" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="52uRmhoQFjtCpDWTwTk8-1" vertex="1">
           <mxGeometry x="340" y="664" width="270" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="g4EE4_HVE2trmpGd-t0b-0" value="Promise.all--&lt;span style=&quot;color: rgb(38 , 38 , 38) ; letter-spacing: 0.05em&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;接收一个由多个 promise 组成的 promise 数组，返回一个新的 promise&lt;/font&gt;&lt;/span&gt;&lt;p style=&quot;color: rgb(38 , 38 , 38) ; line-height: 24px ; letter-spacing: 0.05em ; outline-style: none ; overflow-wrap: break-word ; margin: 0px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;如果 promise 数组都是 resolve，正常返回。&lt;/font&gt;&lt;span style=&quot;letter-spacing: 0.05em&quot;&gt;如果有一个是 reject，会被立刻拒绝&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;color: rgb(38 , 38 , 38) ; line-height: 24px ; letter-spacing: 0.05em ; outline-style: none ; overflow-wrap: break-word ; margin: 0px&quot;&gt;&lt;span style=&quot;letter-spacing: 0.05em&quot;&gt;并抛出错误, 其他的 promise 的结果将被忽略&lt;/span&gt;&lt;/p&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="52uRmhoQFjtCpDWTwTk8-1">
-          <mxGeometry x="330" y="300" width="480" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="g4EE4_HVE2trmpGd-t0b-1" value="promise.all--接收一个由多个 promise 组成的 promise 数组，返回一个新的 promise。&lt;br&gt;只有都是 resolve 才会正常返回，有一个 reject，会被立刻拒绝并抛出错误，其他 promise&lt;br&gt;结果会被忽略" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="52uRmhoQFjtCpDWTwTk8-1">
           <mxGeometry x="340" y="470" width="490" height="40" as="geometry"/>
