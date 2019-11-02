@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-02T11:49:04.205Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="oUaHaUdh4bYQ-2nqeh3r" version="12.1.9" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-11-02T11:50:39.203Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="6OD4ccJ7nxV32HE0eW13" version="12.1.9" type="github" pages="4">
   <diagram id="3zsWWzIFYtMCB39Upx3M" name="Array">
     <mxGraphModel dx="953" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -235,7 +235,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WjU1k2lRsM1wFutmD0wl" name="Object">
-    <mxGraphModel dx="946" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="953" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="52uRmhoQFjtCpDWTwTk8-0"/>
         <mxCell id="52uRmhoQFjtCpDWTwTk8-1" parent="52uRmhoQFjtCpDWTwTk8-0"/>
@@ -287,7 +287,7 @@
         <mxCell id="jFYHPTtX90RcrPpbZv2E-16" value="delete" style="rounded=1;whiteSpace=wrap;html=1;" parent="52uRmhoQFjtCpDWTwTk8-1" vertex="1">
           <mxGeometry x="210" y="130" width="60" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="g4EE4_HVE2trmpGd-t0b-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="52uRmhoQFjtCpDWTwTk8-1" source="jFYHPTtX90RcrPpbZv2E-17" target="g4EE4_HVE2trmpGd-t0b-7">
+        <mxCell id="g4EE4_HVE2trmpGd-t0b-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="52uRmhoQFjtCpDWTwTk8-1" source="jFYHPTtX90RcrPpbZv2E-17" target="g4EE4_HVE2trmpGd-t0b-7" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="jFYHPTtX90RcrPpbZv2E-17" value="access&lt;br&gt;permiss" style="rounded=1;whiteSpace=wrap;html=1;" parent="52uRmhoQFjtCpDWTwTk8-1" vertex="1">
@@ -302,13 +302,16 @@
         <mxCell id="opwUGlIA884b8vls4GQr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="52uRmhoQFjtCpDWTwTk8-1" source="XM92jo9vQRvwv2dolbIj-0" target="opwUGlIA884b8vls4GQr-1" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="g4EE4_HVE2trmpGd-t0b-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="52uRmhoQFjtCpDWTwTk8-1" source="XM92jo9vQRvwv2dolbIj-0" target="g4EE4_HVE2trmpGd-t0b-1">
+        <mxCell id="g4EE4_HVE2trmpGd-t0b-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;dashed=1;" parent="52uRmhoQFjtCpDWTwTk8-1" source="XM92jo9vQRvwv2dolbIj-0" target="g4EE4_HVE2trmpGd-t0b-1" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="g4EE4_HVE2trmpGd-t0b-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="52uRmhoQFjtCpDWTwTk8-1" source="XM92jo9vQRvwv2dolbIj-0" target="g4EE4_HVE2trmpGd-t0b-4">
+        <mxCell id="g4EE4_HVE2trmpGd-t0b-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="52uRmhoQFjtCpDWTwTk8-1" source="XM92jo9vQRvwv2dolbIj-0" target="g4EE4_HVE2trmpGd-t0b-4" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="g4EE4_HVE2trmpGd-t0b-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="52uRmhoQFjtCpDWTwTk8-1" source="XM92jo9vQRvwv2dolbIj-0" target="g4EE4_HVE2trmpGd-t0b-3">
+        <mxCell id="g4EE4_HVE2trmpGd-t0b-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="52uRmhoQFjtCpDWTwTk8-1" source="XM92jo9vQRvwv2dolbIj-0" target="g4EE4_HVE2trmpGd-t0b-3" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="PrAc4wQzctQxmWvNHKKM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="52uRmhoQFjtCpDWTwTk8-1" source="XM92jo9vQRvwv2dolbIj-0" target="PrAc4wQzctQxmWvNHKKM-0">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="XM92jo9vQRvwv2dolbIj-0" value="traversals" style="rounded=1;whiteSpace=wrap;html=1;" parent="52uRmhoQFjtCpDWTwTk8-1" vertex="1">
@@ -353,17 +356,20 @@
         <mxCell id="bgx9efy61ssV66Z0BemA-12" value="Reflect.ownKeys(obj)--返回所有自己的键的数组" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="52uRmhoQFjtCpDWTwTk8-1" vertex="1">
           <mxGeometry x="340" y="664" width="270" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="g4EE4_HVE2trmpGd-t0b-1" value="promise.all--接收一个由多个 promise 组成的 promise 数组，返回一个新的 promise。&lt;br&gt;只有都是 resolve 才会正常返回，有一个 reject，会被立刻拒绝并抛出错误，其他 promise&lt;br&gt;结果会被忽略" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="52uRmhoQFjtCpDWTwTk8-1">
+        <mxCell id="g4EE4_HVE2trmpGd-t0b-1" value="promise.all--接收一个由多个 promise 组成的 promise 数组，返回一个新的 promise。&lt;br&gt;只有都是 resolve 才会正常返回，有一个 reject，会被立刻拒绝并抛出错误，其他 promise&lt;br&gt;结果会被忽略" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="52uRmhoQFjtCpDWTwTk8-1" vertex="1">
           <mxGeometry x="340" y="470" width="490" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="g4EE4_HVE2trmpGd-t0b-3" value="Promise.allsetted--等待 promise 数组的所有 resolve 和 reject，以对象数组的形式返回结果" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="52uRmhoQFjtCpDWTwTk8-1">
+        <mxCell id="g4EE4_HVE2trmpGd-t0b-3" value="Promise.allsetted--等待 promise 数组的所有 resolve 和 reject，以对象数组的形式返回结果" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="52uRmhoQFjtCpDWTwTk8-1" vertex="1">
           <mxGeometry x="340" y="450" width="490" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="g4EE4_HVE2trmpGd-t0b-4" value="Promise.race--接收一个promise 数组，返回第一个 resolve 或者 reject，其他 promise 被忽略" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="52uRmhoQFjtCpDWTwTk8-1">
+        <mxCell id="g4EE4_HVE2trmpGd-t0b-4" value="Promise.race--接收一个promise 数组，返回第一个 resolve 或者 reject，其他 promise 被忽略" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="52uRmhoQFjtCpDWTwTk8-1" vertex="1">
           <mxGeometry x="330" y="542.5" width="510" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="g4EE4_HVE2trmpGd-t0b-7" value="Reflect.get 读取对象属性。Reflect.set 写入对象属性，成功返回 true，否则返回 false" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="52uRmhoQFjtCpDWTwTk8-1">
+        <mxCell id="g4EE4_HVE2trmpGd-t0b-7" value="Reflect.get 读取对象属性。Reflect.set 写入对象属性，成功返回 true，否则返回 false" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="52uRmhoQFjtCpDWTwTk8-1" vertex="1">
           <mxGeometry x="340" y="360" width="460" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="PrAc4wQzctQxmWvNHKKM-0" value="Symbol.for(key)--通过名字返回字符串、Symbol.keyFor(sym)--通过字符串返回名字。二者是相反操作" style="text;html=1;" vertex="1" parent="52uRmhoQFjtCpDWTwTk8-1">
+          <mxGeometry x="330" y="554" width="560" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
