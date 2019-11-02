@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-10-31T13:02:55.563Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="hmqNQzHI_xjst9K-lGzV" version="12.1.9" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-11-02T11:49:04.205Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="oUaHaUdh4bYQ-2nqeh3r" version="12.1.9" type="github" pages="4">
   <diagram id="3zsWWzIFYtMCB39Upx3M" name="Array">
-    <mxGraphModel dx="946" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="953" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -121,6 +121,9 @@
         <mxCell id="qJgs1gcuT-OLatsE5UrT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="IlRY-WLdl9bS0oWDxXhX-5" target="qJgs1gcuT-OLatsE5UrT-2" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
+        <mxCell id="gOyYfihW0mNB6Bdz0KjD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="IlRY-WLdl9bS0oWDxXhX-5" target="gOyYfihW0mNB6Bdz0KjD-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="IlRY-WLdl9bS0oWDxXhX-5" value="traversals" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="430" width="60" height="60" as="geometry"/>
         </mxCell>
@@ -224,6 +227,9 @@
         </mxCell>
         <mxCell id="qJgs1gcuT-OLatsE5UrT-2" value="arr.join--将一个数组(或类数组对象)的所有元素连接成一个字符串并返回这个字符串" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="320" y="610" width="450" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="gOyYfihW0mNB6Bdz0KjD-1" value="Symbol.for(key)--通过名字返回字符串、Symbol.keyFor(sym)--通过字符串返回名字。二者是相反操作" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="625" width="560" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
